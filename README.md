@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @htostes
 - 👀 I’m interested in Python, Data Analysis, Data engineering, Data Science and Bioinformatics
-- 🌱 I’m currently learning Machine learning in general and Python
 - 📫 How to reach me htostes99@gmail.com
 
 <!---
